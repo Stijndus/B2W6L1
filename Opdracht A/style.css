@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+#container{
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+    left:  50%;
+    margin-left: -207px;
+}
+
+button{
+    margin:10px;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px ;
+}
